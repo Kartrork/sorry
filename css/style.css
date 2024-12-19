@@ -34,11 +34,13 @@ body{
  @media (min-width: 360px) {
     #btn{
         border: 1px solid white;
-       width: 40%; 
+        width: 40%; 
+        cursor: pointer;
     }
     .container{
         height: 30vh;
         width: 60%;
+        
     }
     h3{
         text-align: center;
